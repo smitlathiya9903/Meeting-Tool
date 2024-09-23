@@ -20,7 +20,7 @@ This project is a Streamlit-based web application that provides two main feature
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/meeting-assistant-tool.git
+   git clone https://github.com/smitlathiya9903/Meeting-Tool.git
    cd meeting-assistant-tool
    ```
 
