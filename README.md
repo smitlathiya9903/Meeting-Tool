@@ -36,7 +36,7 @@ This project is a Streamlit-based web application that provides two main feature
    ```
 
 4. Set up your Hugging Face API token:
-   - Create a `.env` file in the project root directory
+   - Create a `.env` file in the project root directory.
    - Add your Hugging Face API token to the `.env` file:
      ```
      HF_API_TOKEN=your_huggingface_api_token_here
@@ -75,9 +75,9 @@ This project is a Streamlit-based web application that provides two main feature
 ## Troubleshooting
 
 - If you encounter API token errors:
-  1. Check that your `.env` file is in the project root directory
-  2. Verify that the `HF_API_TOKEN` in the `.env` file is correct
-  3. Try regenerating your Hugging Face API token and updating it in the `.env` file
+  1. Check that your `.env` file is in the project root directory.
+  2. Verify that the `HF_API_TOKEN` in the `.env` file is correct.
+  3. Try regenerating your Hugging Face API token and updating it in the `.env` file.
 
 - For other issues, check the error messages in the Streamlit interface or console output
 
