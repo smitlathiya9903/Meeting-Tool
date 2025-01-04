@@ -1,6 +1,6 @@
 import streamlit as st
 import requests
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 import os
 from pydub import AudioSegment
 from pydub.utils import make_chunks
